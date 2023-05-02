@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <(https://ucsb-cs156-s23.github.io/jpa03-strongani/)>
+Running at: https://ucsb-cs156-s23.github.io/jpa03-strongani/
 
 # Configuring GitHub Pages for the documentation
 
